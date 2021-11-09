@@ -1,0 +1,2 @@
+# MyString
+Trainee task
